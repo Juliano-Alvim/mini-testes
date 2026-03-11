@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to top, rgb(46, 11, 11), rgb(177, 94, 94));
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    background-color: rgba(218, 80, 80, 0.699);
+    background-attachment: fixed;
+    padding: 10px;
+    font-family: helvetica;
+    margin: auto;
+}
